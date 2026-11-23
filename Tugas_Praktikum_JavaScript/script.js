@@ -1,3 +1,8 @@
+<!--
+NIM : 252520015
+Nama Lengkap : Raden Adrian Devara ILP
+Kelas : TI B
+-->
 const daftarBuku = [
   { judul: "Dasar Pemrograman Web", harga: 85000, stok: 12 },
   { judul: "Algoritma dan Logika", harga: 95000, stok: 0 },
